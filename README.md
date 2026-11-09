@@ -2,7 +2,7 @@
 
 **UniForms** is an academic full-stack web application designed to streamline institutional space bookings, audiovisual equipment checkout, and administrative approval workflows.
 
-[![Category](https://img.shields.io/badge/CATEGORY-ACADEMIC%20PROJECT-e0004d?style=for-the-badge)](#)[![UNIVAG](https://img.shields.io/badge/UNIVAG-PROGRAMA%C3%87%C3%83O%20RADICAL%202025-00c8ff?style=for-the-badge)](#)[![License](https://img.shields.io/badge/LICENSE-MIT-76b900?style=for-the-badge)](#)
+[![Category](https://img.shields.io/badge/CATEGORY-ACADEMIC%20PROJECT-e0004d?style=for-the-badge)](#) [![UNIVAG](https://img.shields.io/badge/UNIVAG-PROGRAMA%C3%87%C3%83O%20RADICAL%202025-00c8ff?style=for-the-badge)](#) [![License](https://img.shields.io/badge/LICENSE-MIT-76b900?style=for-the-badge)](#)
 
 ---
 
