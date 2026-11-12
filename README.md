@@ -28,9 +28,26 @@ Developed during the **'Programação Radical 2025'** event at **UNIVAG**, **Uni
 
 ---
 
+## 📦 Deliverables
+
+| What | Where to see it |
+|---|---|
+| Room scheduling, equipment scheduling, approvals and dashboard pages | `frontend/`, open `index.html` or run `python -m http.server` inside `frontend/` |
+
+---
+
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Paulorgdc/uniforms.git](https://github.com/Paulorgdc/uniforms.git)
+   git clone https://github.com/Paulorgdc/uniforms.git
    cd uniforms
+   ```
+
+2. Open `frontend/index.html`, or serve the static directory locally:
+   ```powershell
+   cd frontend
+   python -m http.server 8000
+   ```
+3. Open `http://localhost:8000`. There is no application backend, dependency
+   installation, build step or required environment file.
